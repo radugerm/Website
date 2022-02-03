@@ -27,3 +27,8 @@ form{
   font-size: 15px;
   border-radius: 40px;
 }
+img{
+  width: 200px;
+  height: 180px;
+  padding-bottom: 5%;
+}
